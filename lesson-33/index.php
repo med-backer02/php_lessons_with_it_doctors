@@ -18,7 +18,6 @@
 	foreach($transport as $key => $array) {
 		echo "$key <br>";
 		foreach($array as $key => $value){
-			echo "$key <br>";
 			echo "$value <br>";
 		}
 	}
